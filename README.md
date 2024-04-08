@@ -22,12 +22,14 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-4b32c3?style=flat-square&logo=eslint)
+![Sentry](https://img.shields.io/badge/-Sentry-362d59?style=flat-square&logo=sentry&logoColor=ffffff)
 ![Preact](https://img.shields.io/badge/-Preact-673ab8?style=flat-square&logo=preact)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Hugo](https://img.shields.io/badge/-Hugo-ff4088?style=flat-square&logo=hugo&logoColor=ffffff)
 ![Styled Components](https://img.shields.io/badge/-styled--components-db7093?style=flat-square&logo=styledcomponents&logoColor=ffffff)
 ![Storybook](https://img.shields.io/badge/-Storybook-ff4785?style=flat-square&logo=storybook&logoColor=ffffff)
+![Eleventy](https://img.shields.io/badge/-Eleventy-222222?style=flat-square&logo=eleventy&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff)
@@ -47,67 +49,66 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%208%20mins-blue)
 
-**I'm a Night 🦉** 
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20mins-blue)
 
-```text
-🌞 Morning                201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-🌆 Daytime                491 commits         ████████░░░░░░░░░░░░░░░░░   30.42 % 
-🌃 Evening                779 commits         ████████████░░░░░░░░░░░░░   48.27 % 
-🌙 Night                  143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+**I'm a Night 🦉**
 
 ```text
-Monday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Tuesday                  287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Wednesday                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Thursday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Saturday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Sunday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+🌞 Morning                201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+🌆 Daytime                491 commits         ████████░░░░░░░░░░░░░░░░░   30.42 %
+🌃 Evening                779 commits         ████████████░░░░░░░░░░░░░   48.27 %
+🌙 Night                  143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 %
 ```
 
+📅 **I'm Most Productive on Tuesday**
 
-📊 **This Week I Spent My Time On** 
+```text
+Monday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 %
+Tuesday                  287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 %
+Wednesday                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Thursday                 257 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Friday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Saturday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Sunday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
+```
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
 
-💬 Programming Languages: 
-TypeScript               3 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.31 % 
-Markdown                 2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+💬 Programming Languages:
+TypeScript               3 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.31 %
+Markdown                 2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.69 %
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 
-🔥 Editors: 
-VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  7 hrs 2 mins        █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-typescript-leetcode      2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.38 % 
-dandelion-huang          2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
-vite-vitest-typescript-fr1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+🐱‍💻 Projects:
+typescript-leetcode      2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.38 %
+dandelion-huang          2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.19 %
+vite-vitest-typescript-fr1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 %
 
-💻 Operating System: 
-Mac                      7 hrs 2 mins        █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      7 hrs 2 mins        █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-MDX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               14 repos            █████████░░░░░░░░░░░░░░░░   35.00 %
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 %
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+MDX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
+Last Updated on 08/04/2024 00:24:12 UTC
 
-
-
- Last Updated on 08/04/2024 02:27:00 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
