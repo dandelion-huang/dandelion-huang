@@ -15,10 +15,11 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visual-studio-code)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078d7?style=flat-square&logo=azuredevops&logoColor=ffffff)
+![SVGO](https://img.shields.io/badge/-SVGO-3e7fc1?style=flat-square&logo=svgo&logoColor=ffffff)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=ffffff)
 ![ZOD](https://img.shields.io/badge/-ZOD-3e67b1?style=flat-square&logo=zod&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=ffffff)
@@ -38,6 +39,7 @@
 ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=ffffff)
 ![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?style=flat-square&logo=cssmodules&logoColor=ffffff)
 ![autoprefixer](https://img.shields.io/badge/-autoprefixer-dd3735?style=flat-square&logo=autoprefixer&logoColor=ffffff)
 ![Rollup](https://img.shields.io/badge/-Rollup-ec4a3f?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
@@ -49,74 +51,75 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000000)
 ![Vitest](https://img.shields.io/badge/-Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=ffffff)
+![i18next](https://img.shields.io/badge/-i18next-26a69a?style=flat-square&logo=i18next&logoColor=ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-00c7b7?style=flat-square&logo=netlify&logoColor=ffffff)
 
 ---
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2034%20mins-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-🌆 Daytime                712 commits         █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌃 Evening                831 commits         ███████████░░░░░░░░░░░░░░   42.92 % 
-🌙 Night                  159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+🌞 Morning                234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+🌆 Daytime                712 commits         █████████░░░░░░░░░░░░░░░░   36.78 %
+🌃 Evening                831 commits         ███████████░░░░░░░░░░░░░░   42.92 %
+🌙 Night                  159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday                   338 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Tuesday                  318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Wednesday                282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Thursday                 296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Saturday                 207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Sunday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Monday                   338 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 %
+Tuesday                  318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+Wednesday                282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 %
+Thursday                 296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Saturday                 207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+Sunday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
 
-💬 Programming Languages: 
-TypeScript               17 hrs 58 mins      ██████████████████████░░░   89.63 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-SCSS                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Image (svg)              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+💬 Programming Languages:
+TypeScript               17 hrs 58 mins      ██████████████████████░░░   89.63 %
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+SCSS                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Image (svg)              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 
-🔥 Editors: 
-VS Code                  20 hrs 3 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  20 hrs 3 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-hereafter-revamp         16 hrs 6 mins       ████████████████████░░░░░   80.32 % 
-typescript-leetcode      2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Hereafter                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-nextjs-hereafter-backup-i22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-my-app                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+🐱‍💻 Projects:
+hereafter-revamp         16 hrs 6 mins       ████████████████████░░░░░   80.32 %
+typescript-leetcode      2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 %
+Hereafter                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+nextjs-hereafter-backup-i22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+my-app                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 
-💻 Operating System: 
-Mac                      20 hrs 3 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      20 hrs 3 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               16 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               16 repos            ██████████░░░░░░░░░░░░░░░   40.00 %
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 %
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
+Last Updated on 13/07/2024 00:26:05 UTC
 
-
-
- Last Updated on 13/07/2024 00:26:05 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
