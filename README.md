@@ -39,7 +39,6 @@
 ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=ffffff)
-![Adobe React Aria](https://img.shields.io/badge/-React_Aria-ff0000?style=flat-square&logo=adobe&logoColor=ffffff)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=ffffff)
 ![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?style=flat-square&logo=cssmodules&logoColor=ffffff)
 ![Adobe React Aria](https://img.shields.io/badge/-React_Aria-ff0000?style=flat-square&logo=adobe&logoColor=ffffff)
