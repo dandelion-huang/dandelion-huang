@@ -90,16 +90,16 @@ Sunday                   291 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Rust                     31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-reading-fullstack-rust   31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +115,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2024 00:28:47 UTC
+ Last Updated on 20/09/2024 00:28:54 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
