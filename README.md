@@ -61,7 +61,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2048%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -90,16 +90,17 @@ Sunday                   291 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+reading-fullstack-rust   22 mins             █████████████████████████   99.94 % 
+fullstack-rust-code      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +116,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2024 00:29:41 UTC
+ Last Updated on 03/10/2024 00:29:50 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
