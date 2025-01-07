@@ -67,7 +67,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2048%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -120,7 +120,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2025 00:32:25 UTC
+ Last Updated on 07/01/2025 00:31:09 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
